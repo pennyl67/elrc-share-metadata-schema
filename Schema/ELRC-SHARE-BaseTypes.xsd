@@ -2321,7 +2321,7 @@
 				<xs:enumeration value="32">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>EDUCATION AND COMMUNICATIONS</xs:label>
+							<xs:label>EDUCATION &amp; COMMUNICATIONS</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2335,14 +2335,14 @@
 				<xs:enumeration value="40">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>BUSINESS AND COMPETITION</xs:label>
+							<xs:label>BUSINESS &amp; COMPETITION</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
 				<xs:enumeration value="44">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>EMPLOYMENT AND WORKING CONDITIONS</xs:label>
+							<xs:label>EMPLOYMENT &amp; WORKING CONDITIONS</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2363,7 +2363,7 @@
 				<xs:enumeration value="56">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>AGRICULTURE, FORESTRY AND FISHERIES</xs:label>
+							<xs:label>AGRICULTURE, FORESTRY &amp; FISHERIES</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2377,7 +2377,7 @@
 				<xs:enumeration value="64">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>PRODUCTION, TECHNOLOGY AND RESEARCH</xs:label>
+							<xs:label>PRODUCTION, TECHNOLOGY &amp; RESEARCH</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
