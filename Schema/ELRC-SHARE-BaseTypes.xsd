@@ -2337,7 +2337,7 @@
 				<xs:enumeration value="32">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>EDUCATION &amp; COMMUNICATIONS</xs:label>
+							<xs:label>EDUCATION AND COMMUNICATIONS</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2351,14 +2351,14 @@
 				<xs:enumeration value="40">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>BUSINESS &amp; COMPETITION</xs:label>
+							<xs:label>BUSINESS AND COMPETITION</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
 				<xs:enumeration value="44">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>EMPLOYMENT &amp; WORKING CONDITIONS</xs:label>
+							<xs:label>EMPLOYMENT AND WORKING CONDITIONS</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2379,7 +2379,7 @@
 				<xs:enumeration value="56">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>AGRICULTURE, FORESTRY &amp; FISHERIES</xs:label>
+							<xs:label>AGRICULTURE, FORESTRY AND FISHERIES</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2393,7 +2393,7 @@
 				<xs:enumeration value="64">
 					<xs:annotation>
 						<xs:appinfo>
-							<xs:label>PRODUCTION, TECHNOLOGY &amp; RESEARCH</xs:label>
+							<xs:label>PRODUCTION, TECHNOLOGY AND RESEARCH</xs:label>
 						</xs:appinfo>
 					</xs:annotation>
 				</xs:enumeration>
@@ -2431,6 +2431,7 @@
 	<xs:element name="domain">
 		<xs:annotation>
 			<xs:documentation>Specifies the application domain of the resource or the tool/service; please, select one of the values supplied (taken from the EUROVOC domains, cf. http://eurovoc.europa.eu)</xs:documentation>
+			<xs:documentation>Specifies the application domain of the resource or the tool/service; please, select one of the values supplied (taken from the EUROVOC domains, cf. http://eurovoc.europa.eu)</xs:documentation>
 			<xs:appinfo>
 				<inline-type>tabular</inline-type>
 				<label>Domain</label>
@@ -2447,15 +2448,15 @@
 				<xs:enumeration value="TRADE"/>
 				<xs:enumeration value="FINANCE"/>
 				<xs:enumeration value="SOCIAL QUESTIONS"/>
-				<xs:enumeration value="EDUCATION AND COMMUNICATIONS"/>
+				<xs:enumeration value="EDUCATION &amp; COMMUNICATIONS"/>
 				<xs:enumeration value="SCIENCE"/>
-				<xs:enumeration value="BUSINESS AND COMPETITION"/>
-				<xs:enumeration value="EMPLOYMENT AND WORKING CONDITIONS"/>
+				<xs:enumeration value="BUSINESS &amp; COMPETITION"/>
+				<xs:enumeration value="EMPLOYMENT &amp; WORKING CONDITIONS"/>
 				<xs:enumeration value="TRANSPORT"/>
 				<xs:enumeration value="ENVIRONMENT"/>
-				<xs:enumeration value="AGRICULTURE, FORESTRY AND FISHERIES"/>
+				<xs:enumeration value="AGRICULTURE, FORESTRY &amp; FISHERIES"/>
 				<xs:enumeration value="AGRI-FOODSTUFFS"/>
-				<xs:enumeration value="PRODUCTION, TECHNOLOGY AND RESEARCH"/>
+				<xs:enumeration value="PRODUCTION, TECHNOLOGY &amp; RESEARCH"/>
 				<xs:enumeration value="ENERGY"/>
 				<xs:enumeration value="INDUSTRY"/>
 				<xs:enumeration value="GEOGRAPHY"/>
